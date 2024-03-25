@@ -10,8 +10,7 @@
 
 ## Oliver Nautsch<!-- include: oliver.md -->
 
-* [LinkedIn](https://www.linkedin.com/in/oliver-nautsch/)
-* 
+* [LinkedIn](https://www.linkedin.com/in/oliver-nautsch/) 
 
 A bit about you
 <!-- endInclude -->
