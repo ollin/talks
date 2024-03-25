@@ -1,7 +1,6 @@
 ## Oliver Nautsch
 
-* [Your Blog](https://you.blogspot.com/)
-* [Your Others links](https://google.com/you)
+* [LinkedIn](https://www.linkedin.com/in/oliver-nautsch/) 
 
 A bit about you
 
