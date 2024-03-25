@@ -6,8 +6,7 @@
 
 ## [Oliver](./oliver.md)
 
-* [Your Blog](https://you.blogspot.com/)
-* [Your Others links](https://google.com/you)
+* tbd
 
 A bit about you
 <!-- endInclude -->
