@@ -5,10 +5,13 @@
 
 ### HTMX resources
 * [htmx.org](https://htmx.org/)
+* [Video with Carson Gross - creator of HTMX](https://www.youtube.com/watch?v=LriHRa9t1fQ) and [@ThePrimeagen](https://twitter.com/ThePrimeagen)
+* [Video](https://youtu.be/-ptq9HCrI_U?t=353) with good explaination about state management and what to choose when
 
 ## Oliver Nautsch<!-- include: oliver.md -->
 
-* [LinkedIn](https://www.linkedin.com/in/oliver-nautsch/) 
+* [LinkedIn](https://www.linkedin.com/in/oliver-nautsch/)
+* 
 
 A bit about you
 <!-- endInclude -->
