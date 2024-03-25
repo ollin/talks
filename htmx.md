@@ -12,7 +12,7 @@
 
 ## Oliver Nautsch<!-- include: oliver.md -->
 
-* [X (aka Twitter](https://twitter.com/ollispieps)
+* [X (aka Twitter)](https://twitter.com/ollispieps)
 * [LinkedIn](https://www.linkedin.com/in/oliver-nautsch/) 
 
 A bit about you
