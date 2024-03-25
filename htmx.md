@@ -5,6 +5,7 @@
 
 ### HTMX resources
 * [htmx.org](https://htmx.org/)
+* [book about Hypermedia Systems](https://hypermedia.systems/)
 * [Video with Carson Gross - creator of HTMX](https://www.youtube.com/watch?v=LriHRa9t1fQ) and [@ThePrimeagen](https://twitter.com/ThePrimeagen)
 * [Video](https://youtu.be/-ptq9HCrI_U?t=353) with good explaination about state management and what to choose when
 
