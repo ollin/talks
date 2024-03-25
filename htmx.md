@@ -2,6 +2,7 @@
 
 ## Talk Resources
 * [Slides - Deutsch,German](https://docs.google.com/presentation/d/1PsLzS-oLv9CQgDPbuWp6F2hV3l6Y162eafKhHuZbLWE/edit?usp=sharing)
+* [example project - Spring Boot, Kotlin, Thymeleaf - based on the book (see below)](https://github.com/ollin/htmxbook)
 
 ### HTMX resources
 * [htmx.org](https://htmx.org/)
