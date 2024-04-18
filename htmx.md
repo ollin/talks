@@ -9,6 +9,11 @@
 * [book about Hypermedia Systems](https://hypermedia.systems/)
 * [Video with Carson Gross - creator of HTMX](https://www.youtube.com/watch?v=LriHRa9t1fQ) and [@ThePrimeagen](https://twitter.com/ThePrimeagen)
 * [Video](https://youtu.be/-ptq9HCrI_U?t=353) with good explaination about state management and what to choose when
+* [Video](https://www.youtube.com/watch?v=0l6I0tA-Il4) with more details about HTMX (big thx [Lars](https://github.com/LarsEckart) for showing me the video)
+
+### JVM (Java, Kotlin, ...) related stuff
+* [Spring Boot and Thymeleaf library for htmx](https://github.com/wimdeblauwe/htmx-spring-boot)
+* [Typesafe HTML DSL](https://kotlinlang.org/docs/typesafe-html-dsl.html)
 
 ## Oliver Nautsch<!-- include: oliver.md -->
 
