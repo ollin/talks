@@ -15,6 +15,10 @@
 * [Spring Boot and Thymeleaf library for htmx](https://github.com/wimdeblauwe/htmx-spring-boot)
 * [Typesafe HTML DSL](https://kotlinlang.org/docs/typesafe-html-dsl.html)
 
+### Comparisons with other frameworks
+#### JVM
+* [Efficient Full-Stack Development with Java | Simon Martinelli](https://www.youtube.com/watch?v=FI1Ao-qFFoY) (big thx to [Peti](https://github.com/Petikoch) for showing me the video)
+
 ## Oliver Nautsch<!-- include: oliver.md -->
 
 * [LinkedIn](https://www.linkedin.com/in/oliver-nautsch/)
