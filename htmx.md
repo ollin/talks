@@ -18,7 +18,7 @@
 
 ### Comparisons with other frameworks
 #### JVM
-* [Efficient Full-Stack Development with Java | Simon Martinelli](https://www.youtube.com/watch?v=FI1Ao-qFFoY) (big thx to [Peti](https://github.com/Petikoch) for showing me the video and [Simon](https://github.com/simasch) for making it!)
+* [Efficient Full-Stack Development with Java | Simon Martinelli](https://www.youtube.com/watch?v=FI1Ao-qFFoY) (big thx to [Simon](https://github.com/simasch) for making it! und [Peti](https://github.com/Petikoch) for showing me the video)
 
 ## Oliver Nautsch<!-- include: oliver.md -->
 
