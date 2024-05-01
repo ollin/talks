@@ -1,6 +1,6 @@
 # Hypermedia-Driven Applications with HTMX
 
-## next public talks:
+## next public talk(s):
 * [2024-05-14 - Basel - Switzerland](https://www.jug.ch/html/events/2024/htmx_bs.html)
 
 ## past public talks
@@ -11,18 +11,6 @@
 * [Slides - Deutsch,German](https://docs.google.com/presentation/d/1PsLzS-oLv9CQgDPbuWp6F2hV3l6Y162eafKhHuZbLWE/edit?usp=sharing)
 * [example project - Spring Boot, Kotlin, Thymeleaf - based on the book (see below)](https://github.com/ollin/htmxbook)
 * [example project - Ktor, Kotlin, kotlinx html dsl, - also based on the book (see below)](https://github.com/ollin/contacts)
-
-## most noticeable things / todo
-1. When I use the kotlinx html dsl and use the domain model directly, I get hints in the HTML (as the DSL) from the compiler. At this point everyone becomes very attentive. For example, at compile time I get an error if I remove an attribute in the domain model but still use it in the UI code. So no runtime error, which is very good. I should do all the examples with the typesafe html dsl.
-2. We need a component library for the kotlins html dsl. I have no idea at the moment what makes sense, but the listeners keep asking.
-3. The string literals when setting the attribute values of HTMX in the DSL feel unnatural.  An extension of the DSL would also make sense here.
-4. Somehow I have to get the type save routing (see: https://ktor.io/docs/server-resources.html#resource_url) from Ktor into the DSL when I configure the HTTP methods with HTMX.
-
-## feedback
-* Einleitung/Einstieg war etwas schwierig, wenn man sich vorher noch nicht HTMX angeschaut hat. (translated: Introduction/entry was a bit difficult if you haven't watched HTMX before.)
-* Wichtiges Thema. Wes? Frontends ist mehr als Angular, Vue, React,... (Frontend Architektur) (tranlasted: Important topic. What? Frontends is more than Angular, Vue, React,... (Frontend architecture))
-* Guter Mix von Einführung/Basics, Thema und dann der Aspekt Frontend Team. (translated: Good mix of introduction/basics, topic and then the frontend team aspect.)
-* Sehr spannende Erkenntnis bzgl. Code Completion und Überprüfung zur Build-Zeit im Beispiel mit Kotlin. (translated: Very exciting insight regarding code completion and check at build time in the example with Kotlin.)
 
 ### HTMX resources
 * [htmx.org](https://htmx.org/)
@@ -48,3 +36,16 @@
 
 
 <!-- endInclude -->
+
+# notes for myself
+## most noticeable things / todo
+1. When I use the kotlinx html dsl and use the domain model directly, I get hints in the HTML (as the DSL) from the compiler. At this point everyone becomes very attentive. For example, at compile time I get an error if I remove an attribute in the domain model but still use it in the UI code. So no runtime error, which is very good. I should do all the examples with the typesafe html dsl.
+2. We need a component library for the kotlins html dsl. I have no idea at the moment what makes sense, but the listeners keep asking.
+3. The string literals when setting the attribute values of HTMX in the DSL feel unnatural.  An extension of the DSL would also make sense here.
+4. Somehow I have to get the type save routing (see: https://ktor.io/docs/server-resources.html#resource_url) from Ktor into the DSL when I configure the HTTP methods with HTMX.
+
+## feedback
+* Einleitung/Einstieg war etwas schwierig, wenn man sich vorher noch nicht HTMX angeschaut hat. (translated: Introduction/entry was a bit difficult if you haven't watched HTMX before.)
+* Wichtiges Thema. Wes? Frontends ist mehr als Angular, Vue, React,... (Frontend Architektur) (tranlasted: Important topic. What? Frontends is more than Angular, Vue, React,... (Frontend architecture))
+* Guter Mix von Einführung/Basics, Thema und dann der Aspekt Frontend Team. (translated: Good mix of introduction/basics, topic and then the frontend team aspect.)
+* Sehr spannende Erkenntnis bzgl. Code Completion und Überprüfung zur Build-Zeit im Beispiel mit Kotlin. (translated: Very exciting insight regarding code completion and check at build time in the example with Kotlin.)
