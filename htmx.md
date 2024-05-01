@@ -12,7 +12,7 @@
 * [example project - Spring Boot, Kotlin, Thymeleaf - based on the book (see below)](https://github.com/ollin/htmxbook)
 * [example project - Ktor, Kotlin, kotlinx html dsl, - also based on the book (see below)](https://github.com/ollin/contacts)
 
-## most noticeable things
+## most noticeable things / todo
 1. When I use the kotlinx html dsl and use the domain model directly, I get hints in the HTML (as the DSL) from the compiler. At this point everyone becomes very attentive. For example, at compile time I get an error if I remove an attribute in the domain model but still use it in the UI code. So no runtime error, which is very good. I should do all the examples with the typesafe html dsl.
 2. We need a component library for the kotlins html dsl. I have no idea at the moment what makes sense, but the listeners keep asking.
 3. The string literals when setting the attribute values of HTMX in the DSL feel unnatural.  An extension of the DSL would also make sense here.
