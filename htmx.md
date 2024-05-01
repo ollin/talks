@@ -1,4 +1,5 @@
 # Hypermedia-Driven Applications with HTMX
+If anyone is interested in this talk, please contact me (see below for contact information). I am currently preparing a one-day workshop. 
 
 ## next public talk(s):
 * [2024-05-14 - Basel - Switzerland](https://www.jug.ch/html/events/2024/htmx_bs.html)
