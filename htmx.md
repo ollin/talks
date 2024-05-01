@@ -45,7 +45,7 @@
 4. Somehow I have to get the type save routing (see: https://ktor.io/docs/server-resources.html#resource_url) from Ktor into the DSL when I configure the HTTP methods with HTMX.
 
 ## feedback
+* Guter Mix von Einführung/Basics, Thema und dann der Aspekt Frontend Team. (translated: Good mix of introduction/basics, topic and then the frontend team aspect.)
 * Einleitung/Einstieg war etwas schwierig, wenn man sich vorher noch nicht HTMX angeschaut hat. (translated: Introduction/entry was a bit difficult if you haven't watched HTMX before.)
 * Wichtiges Thema. Wes? Frontends ist mehr als Angular, Vue, React,... (Frontend Architektur) (tranlasted: Important topic. What? Frontends is more than Angular, Vue, React,... (Frontend architecture))
-* Guter Mix von Einführung/Basics, Thema und dann der Aspekt Frontend Team. (translated: Good mix of introduction/basics, topic and then the frontend team aspect.)
 * Sehr spannende Erkenntnis bzgl. Code Completion und Überprüfung zur Build-Zeit im Beispiel mit Kotlin. (translated: Very exciting insight regarding code completion and check at build time in the example with Kotlin.)
