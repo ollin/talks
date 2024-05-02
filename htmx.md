@@ -42,8 +42,9 @@ If anyone is interested in this talk, please contact me (see below for contact i
 ## most noticeable things / todo
 1. When I use the kotlinx html dsl and use the domain model directly, I get hints in the HTML (as the DSL) from the compiler. At this point everyone becomes very attentive. For example, at compile time I get an error if I remove an attribute in the domain model but still use it in the UI code. So no runtime error, which is very good. I should do all the examples with the typesafe html dsl.
 2. We need a component library for the kotlins html dsl. I have no idea at the moment what makes sense, but the listeners keep asking.
-3. The string literals when setting the attribute values of HTMX in the DSL feel unnatural.  An extension of the DSL would also make sense here.
-4. Somehow I have to get the type save routing (see: https://ktor.io/docs/server-resources.html#resource_url) from Ktor into the DSL when I configure the HTTP methods with HTMX.
+   - [Ossi:](https://github.com/busykoala): the problem here is, that this is always language depenced. Designer might not want that, or can not do it.
+4. The string literals when setting the attribute values of HTMX in the DSL feel unnatural.  An extension of the DSL would also make sense here.
+5. Somehow I have to get the type save routing (see: https://ktor.io/docs/server-resources.html#resource_url) from Ktor into the DSL when I configure the HTTP methods with HTMX.
 
 ## feedback
 * Guter Mix von Einführung/Basics, Thema und dann der Aspekt Frontend Team. (translated: Good mix of introduction/basics, topic and then the frontend team aspect.)
