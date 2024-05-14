@@ -11,6 +11,7 @@ If anyone is interested in this talk, please contact me (see below for contact i
 
 ## Talk Resources
 * [Slides - Deutsch,German](https://docs.google.com/presentation/d/1PsLzS-oLv9CQgDPbuWp6F2hV3l6Y162eafKhHuZbLWE/edit?usp=sharing)
+* [Sides - English](https://docs.google.com/presentation/d/1dbel096SXJUOKiQS0k5fKpGL_JM09U8Be0A4x_HYXFs/edit?usp=sharing)
 * [example project - based on the book (see below)](https://github.com/ollin/contacts)
   *   subproject with spring boot, thymeleaf, kotlin
   *   subproject with ktor, kotlin, typesafe html dsl
