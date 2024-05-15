@@ -55,3 +55,4 @@ If anyone is interested in this talk, please contact me (see below for contact i
 * Einleitung/Einstieg war etwas schwierig, wenn man sich vorher noch nicht HTMX angeschaut hat. (translated: Introduction/entry was a bit difficult if you haven't watched HTMX before.)
 * Wichtiges Thema. Wes? Frontends ist mehr als Angular, Vue, React,... (Frontend Architektur) (tranlasted: Important topic. What? Frontends is more than Angular, Vue, React,... (Frontend architecture))
 * Sehr spannende Erkenntnis bzgl. Code Completion und Überprüfung zur Build-Zeit im Beispiel mit Kotlin. (translated: Very exciting insight regarding code completion and check at build time in the example with Kotlin.)
+* Super workshop heute!
