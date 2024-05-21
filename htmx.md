@@ -49,7 +49,8 @@ If anyone is interested in this talk, please contact me (see below for contact i
    - [Ossi:](https://github.com/busykoala): the problem here is, that this is always language depenced. Designer might not want that, or can not do it.
 3. The string literals when setting the attribute values of HTMX in the DSL feel unnatural.  An extension of the DSL would also make sense here.
 4. Make an example with inline editing
-5. ✅ Somehow I have to get the type save routing (see: https://ktor.io/docs/server-resources.html#resource_url) from Ktor into the DSL when I configure the HTTP methods with HTMX.
+5. Look at [fritz2](https://www.fritz2.dev/) - web components?
+6. ✅ Somehow I have to get the type save routing (see: https://ktor.io/docs/server-resources.html#resource_url) from Ktor into the DSL when I configure the HTTP methods with HTMX.
    - see [Building links from ressources](https://ktor.io/docs/server-resources.html#resource_links)
 ```kotlin
 
