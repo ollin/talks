@@ -2,9 +2,10 @@
 If anyone is interested in this talk, please contact me (see below for contact information). I am currently preparing a one-day workshop. 
 
 ## next public talk(s):
-* [2024-05-21 - Zürich - Switerland (English)](https://www.meetup.com/coders-only/events/300858871/)
+* tbd
 
 ## past public talks
+* [2024-05-21 - Zürich - Switerland (English)](https://www.meetup.com/coders-only/events/300858871/)
 * [2024-05-14 - Basel - Switzerland (English)](https://www.jug.ch/html/events/2024/htmx_bs.html), no recording
 * [2024-04-30 - Bern - Switzerland (Deutsch)](https://www.jug.ch/html/events/2024/htmx_be.html), no recording
 * [2024-04-24 - Lucerne - Switzerland (Deutsch)](https://www.jug.ch/html/events/2024/htmx_lu.html), no recording
